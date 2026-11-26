@@ -3,6 +3,7 @@ title: "One-Way Video Interviews Compared: HireVue vs Spark Hire vs Talview vs V
 datePublished: 2026-11-26T15:20:09.968Z
 cuid: cmwxp8dms000108l8dckd11t9
 slug: one-way-video-interviews-compared-hirevue-vs-spark-hire-vs-talview-vs-vidcruiter
+cover: https://cdn.hashnode.com/uploads/covers/6b08293e575ddf024f3392f4/517eaeec-e07f-4314-abb5-ed7e72aa8e15.jpg
 
 ---
 
@@ -26,8 +27,8 @@ One thing none of these platforms does: hire you. Each is software the employer 
 
 ## The comparison at a glance
 
-| | HireVue | Spark Hire | Talview | VidCruiter |
-|---|---|---|---|---|
+|  | HireVue | Spark Hire | Talview | VidCruiter |
+| --- | --- | --- | --- | --- |
 | Think time | Employer sets 0 to 5 min; vendor recommends 60 sec | 30 sec to 5 min, or unlimited | Recruiter-defined | Employer sets per question; often 30 sec to 2 min |
 | Answer length | Employer sets it; commonly 2 to 3 min | 30 sec to 3 min | Recruiter-defined | Employer sets per question; a minute or two typical |
 | Retakes | Employer on/off; vendor recommends 1 to 2 retries | 1 to 5 takes, or unlimited; limited think time means one take only | Retries as defined by recruiter; Ivy AI interviews are single-attempt | Employer sets per question; commonly 0 to 2 |
@@ -38,7 +39,7 @@ One thing none of these platforms does: hire you. Each is software the employer 
 
 *Prices and settings checked 26 November 2026 against the sources listed at the end. Vendors change pricing often; if a figure here is wrong, we correct it with a dated note (see our corrections policy).*
 
-![The four platforms, side by side](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-03-glance.svg)
+![The four platforms, side by side](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-03-glance.svg align="center")
 
 ## HireVue: the enterprise default, and the most documented AI scoring
 
@@ -46,7 +47,7 @@ HireVue is the platform most candidates meet first, especially in graduate and e
 
 The employer controls the settings that matter to you: preparation time (0 to 5 minutes, HireVue recommends 60 seconds), retries (on or off, 1 to 2 recommended), the number of questions, and whether AI scoring is used at all. Recording starts automatically when the preparation timer ends, and you cannot return to a question after submitting it. Before the real questions, HireVue offers practice questions you can take as many times as you like; nobody sees them.
 
-HireVue's AI scoring is the most openly documented of the four. Its 2025 Explainability Statement describes three steps: a third-party speech-to-text system (Rev.ai) transcribes your answer; a language model HireVue calls CUSTARD, built on the RoBERTa model, reads the transcript for meaning; and a scoring model trained on expert human ratings (about 60 raters, 99,411 ratings across 19 competencies) places each answer on a five-level scale from Novice to Expert for the competency that question was written to test. The statement is explicit: the AI "relies only on what is said by the candidate and does not use any video analysis or other audio characteristics", so it does not assess facial expressions, body language, surroundings or tone of voice. That is HireVue's own claim, not an independent finding.
+HireVue's AI scoring is the most openly documented of the four. Its 2025 Explainability Statement describes three steps: a third-party speech-to-text system ([Rev.ai](http://Rev.ai)) transcribes your answer; a language model HireVue calls CUSTARD, built on the RoBERTa model, reads the transcript for meaning; and a scoring model trained on expert human ratings (about 60 raters, 99,411 ratings across 19 competencies) places each answer on a five-level scale from Novice to Expert for the competency that question was written to test. The statement is explicit: the AI "relies only on what is said by the candidate and does not use any video analysis or other audio characteristics", so it does not assess facial expressions, body language, surroundings or tone of voice. That is HireVue's own claim, not an independent finding.
 
 With AI scoring on, the recruiter sees your recordings alongside competency scores and an overall tier (top 67 to 100%, middle 36 to 66%, bottom 0 to 33%). Without it, the recruiter simply watches the recordings. An answer the system cannot read, typically under five understood words, is not scored and is flagged for human review.
 
@@ -68,7 +69,7 @@ In an **asynchronous interview**, you record video or audio answers to preset qu
 
 Talview is also a proctoring company, and that shapes the candidate experience more than on any other platform here. In proctored assessments, your camera, microphone and screen may be recorded for identity verification and integrity checks, starting only after you grant permission, and denying camera or microphone access blocks async and Ivy interviews from starting. If you close the browser mid-assessment, progress auto-saves up to the last completed question, but the timer keeps running even if you lose connectivity. Retakes are not automatic: if something goes wrong, your recruiter decides whether to reassign the test.
 
-What the employer sees is the broadest package of the four: your responses, scores and recordings, AI evaluation reports if configured, proctoring footage, and your personal data (name, email, candidate ID and test logs). Talview says this data is shared solely for hiring and evaluation and is deleted after the retention period your organisation defines; you can request deletion before then through your recruiter or by emailing privacy@talview.com. Talview publishes no employer pricing that we could verify, and we found no reliable third-party figure either, so we do not quote one.
+What the employer sees is the broadest package of the four: your responses, scores and recordings, AI evaluation reports if configured, proctoring footage, and your personal data (name, email, candidate ID and test logs). Talview says this data is shared solely for hiring and evaluation and is deleted after the retention period your organisation defines; you can request deletion before then through your recruiter or by emailing [privacy@talview.com](mailto:privacy@talview.com). Talview publishes no employer pricing that we could verify, and we found no reliable third-party figure either, so we do not quote one.
 
 ## VidCruiter: structured scoring and the audit trail
 
@@ -80,7 +81,7 @@ VidCruiter's AI is newer and narrower than HireVue's. Its AI can score recorded 
 
 VidCruiter publishes no employer pricing. Its pricing page lists nine modules you can buy (pre-recorded interviews, live interviews, scheduling, reference checks, skills testing and more), all quote-based. Third-party listings report a starting price of about $5,000 a year, which we could not confirm with the vendor, so treat it as reported, not verified. Reviewers on G2 report an average of two months to implement VidCruiter: organisations willing to run setup as a project, not teams buying a tool for one hire.
 
-![What the AI scores, and what it does not](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-03-ai-scoring.svg)
+![What the AI scores, and what it does not](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-03-ai-scoring.svg align="center")
 
 ## Your rights: AI scoring, notice and accommodations
 
@@ -117,18 +118,18 @@ None of the four is objectively the hardest. The hardest interview is the one wh
 
 ## Sources (all checked 26 November 2026)
 
-- HireVue candidate FAQ and preparation guide (hirevue.com): question counts, timings, practice questions, employer-set settings.
-- HireVue AI Explainability Statement (2025): transcript-only scoring, CUSTARD/RoBERTa, Rev.ai transcription, 19 competencies, five-level scale, 99,411 expert ratings, prep 0 to 5 min, 1 to 2 retries recommended, tier bands, five-word scoring floor.
-- Spark Hire candidate help centre (sparkhire.com): walkthrough, practice video, think time/takes/time limit, limited think time means one take, pause and resume.
+- HireVue candidate FAQ and preparation guide ([hirevue.com](http://hirevue.com)): question counts, timings, practice questions, employer-set settings.
+- HireVue AI Explainability Statement (2025): transcript-only scoring, CUSTARD/RoBERTa, [Rev.ai](http://Rev.ai) transcription, 19 competencies, five-level scale, 99,411 expert ratings, prep 0 to 5 min, 1 to 2 retries recommended, tier bands, five-word scoring floor.
+- Spark Hire candidate help centre ([sparkhire.com](http://sparkhire.com)): walkthrough, practice video, think time/takes/time limit, limited think time means one take, pause and resume.
 - Spark Hire pricing page, via independent pricing guides that read it in Oct-Nov 2026: video interviews from $249/month billed annually, $299 monthly, 5 jobs and 5 users on monthly.
-- Spark Hire AI Video Review, via independent guides based on Spark Hire's own pages (recruitingtechreviews.com, colloqa.ai, huru.ai): six scoring factors, assistive only, human decision, employer does not see attempt count.
-- Talview Candidate Assessment FAQs (docs.talview.com): assessment types, async limits and retries, Ivy traits, practice assessment, timer on disconnect, proctoring, data sharing, deletion, accommodations.
-- Talview Ivy, via independent guides (copilotinterview.com, ntrvsta.com): identical questions with contextual follow-ups, non-verbal cues, time-bound single-attempt sessions.
-- VidCruiter applicant support centre and pre-recorded interview page, via independent guides that read them in Oct 2026 (copilotinterview.com, asynchronousinterview.com, aceround.app): per-question employer settings, review before submitting, disconnect behaviour, structured scorecards.
-- VidCruiter AI features and pricing, via independent reviews (selectsoftwarereviews.com, techshark.io, hirevire.com, whatjobs.com): AI scoring 1 to 5 on the employer's rubric, transcripts, fraud detection, no published price, Capterra starting price about $5,000/year, G2 implementation average 2 months.
-- HireVue employer pricing, via third-party procurement data (pin.com, sprad.io, happyrobot.ai): no published prices, entry tier about $35,000/year, average contract about $49,855/year (Vendr), implementation $15,000 to $40,000.
-- Illinois AI Video Interview Act (820 ILCS 42) and Illinois Human Rights Act AI provisions (775 ILCS 5/2-102(L)), via legal guides (fairbydesign.org, reacit.com, digitalstorming.com, boostpoint.com): notice, explanation, consent, deletion within 30 days, effective dates.
-- New York City Local Law 144, via NYC DCWP guidance and the Dec 2025 NY State Comptroller audit, as reported by fairbydesign.org and reacit.com: annual bias audit, public summary, 10 business days' notice, weak enforcement.
-- Candidate Falcon pricing page (candidatefalcon.com/pricing): video-interview practice from €19.99/month, combined plans from €36.99/month.
+- Spark Hire AI Video Review, via independent guides based on Spark Hire's own pages ([recruitingtechreviews.com](http://recruitingtechreviews.com), [colloqa.ai](http://colloqa.ai), [huru.ai](http://huru.ai)): six scoring factors, assistive only, human decision, employer does not see attempt count.
+- Talview Candidate Assessment FAQs ([docs.talview.com](http://docs.talview.com)): assessment types, async limits and retries, Ivy traits, practice assessment, timer on disconnect, proctoring, data sharing, deletion, accommodations.
+- Talview Ivy, via independent guides ([copilotinterview.com](http://copilotinterview.com), [ntrvsta.com](http://ntrvsta.com)): identical questions with contextual follow-ups, non-verbal cues, time-bound single-attempt sessions.
+- VidCruiter applicant support centre and pre-recorded interview page, via independent guides that read them in Oct 2026 ([copilotinterview.com](http://copilotinterview.com), [asynchronousinterview.com](http://asynchronousinterview.com), aceround.app): per-question employer settings, review before submitting, disconnect behaviour, structured scorecards.
+- VidCruiter AI features and pricing, via independent reviews ([selectsoftwarereviews.com](http://selectsoftwarereviews.com), [techshark.io](http://techshark.io), [hirevire.com](http://hirevire.com), [whatjobs.com](http://whatjobs.com)): AI scoring 1 to 5 on the employer's rubric, transcripts, fraud detection, no published price, Capterra starting price about $5,000/year, G2 implementation average 2 months.
+- HireVue employer pricing, via third-party procurement data ([pin.com](http://pin.com), [sprad.io](http://sprad.io), [happyrobot.ai](http://happyrobot.ai)): no published prices, entry tier about $35,000/year, average contract about $49,855/year (Vendr), implementation $15,000 to $40,000.
+- Illinois AI Video Interview Act (820 ILCS 42) and Illinois Human Rights Act AI provisions (775 ILCS 5/2-102(L)), via legal guides ([fairbydesign.org](http://fairbydesign.org), [reacit.com](http://reacit.com), [digitalstorming.com](http://digitalstorming.com), [boostpoint.com](http://boostpoint.com)): notice, explanation, consent, deletion within 30 days, effective dates.
+- New York City Local Law 144, via NYC DCWP guidance and the Dec 2025 NY State Comptroller audit, as reported by [fairbydesign.org](http://fairbydesign.org) and [reacit.com](http://reacit.com): annual bias audit, public summary, 10 business days' notice, weak enforcement.
+- Candidate Falcon pricing page ([candidatefalcon.com/pricing](http://candidatefalcon.com/pricing)): video-interview practice from €19.99/month, combined plans from €36.99/month.
 
 *Corrections: if any figure in this article is wrong or out of date, tell us and we will fix it with a dated note, not a silent edit.*
