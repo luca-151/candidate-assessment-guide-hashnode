@@ -3,7 +3,7 @@ title: "HireVue Game Prep Compared: JobTestPrep vs GameTestPrep vs Game Assessme
 datePublished: 2026-11-26T14:45:43.069Z
 cuid: cmwxo02su000107l8g816fjrk
 slug: hirevue-game-prep-compared-jobtestprep-vs-gametestprep-vs-game-assessment-prep-vs-graduates-first-vs
-cover: https://cdn.hashnode.com/uploads/covers/6b08293e575ddf024f3392f4/3023915b-a833-45c9-b86b-8bff120658d1.png
+cover: https://cdn.hashnode.com/uploads/covers/6b08293e575ddf024f3392f4/5fa93042-dac5-4ee2-821b-995754b76401.jpg
 
 ---
 
