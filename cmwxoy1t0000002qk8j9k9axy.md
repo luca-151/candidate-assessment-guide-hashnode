@@ -3,6 +3,7 @@ title: "HireVue vs Arctic Shores vs pymetrics vs Cappfinity: how the assessments
 datePublished: 2026-11-26T15:12:08.048Z
 cuid: cmwxoy1t0000002qk8j9k9axy
 slug: hirevue-vs-arctic-shores-vs-pymetrics-vs-cappfinity-how-the-assessments-differ
+cover: https://cdn.hashnode.com/uploads/covers/6b08293e575ddf024f3392f4/3542d855-6cb9-40b9-b263-1b876c797f28.png
 
 ---
 
@@ -20,8 +21,8 @@ Knowing which one you face changes what to practise. Timed reasoning drills help
 
 ## The comparison at a glance
 
-| | HireVue | Arctic Shores | pymetrics (Harver) | Cappfinity |
-|---|---|---|---|---|
+|  | HireVue | Arctic Shores | pymetrics (Harver) | Cappfinity |
+| --- | --- | --- | --- | --- |
 | What it is | Game-based assessment, often paired with video interview questions | Task-based psychometric assessment | Neuroscience-based games, now Harver's game-based platform | Strengths-based assessment: scenarios, reasoning, video |
 | Typical length | 15 to 25 minutes for games plus video questions; each game about 3 minutes | About 30 minutes for 3 tasks; up to about an hour for 8 or 9 tasks, per candidate reports | About 25 minutes; 12 games at 2 to 3 minutes each | Varies by employer; commonly reported examples run about 60 to 90 minutes |
 | Number of tasks | Employer chooses, typically 2 to 3 games plus 3 to 6 video questions | Employer chooses, up to 9 tasks | 12 games in the standard set; some employers use a subset | Employer chooses from 12 question formats |
@@ -33,7 +34,7 @@ Knowing which one you face changes what to practise. Timed reasoning drills help
 
 *Figures are as reported on 26 November 2026. Every employer configures its own version, so your invitation and instruction screens outrank any table, including this one.*
 
-![The four assessments, side by side](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-02-glance.svg)
+![The four assessments, side by side](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-02-glance.svg align="center")
 
 ## HireVue: short adaptive games, scored by a model
 
@@ -101,7 +102,7 @@ Read the invitation email before anything else. It names the vendor, and often t
 - **Cappfinity:** check which of the 12 formats your employer chose, do the official Preparation Hub practice first, and budget 60 to 90 minutes for a full simulation.
 - **SHL:** if Verify G+ is named, practise timed reasoning at roughly 72 seconds per question. If OPQ is named, answer consistently and do not try to guess a desired profile.
 
-![Is there a right answer? How the four vendors score you](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-02-answers.svg)
+![Is there a right answer? How the four vendors score you](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-02-answers.svg align="center")
 
 ## What practice can and cannot do
 
