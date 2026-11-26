@@ -3,7 +3,7 @@ title: "HireVue vs Arctic Shores vs pymetrics vs Cappfinity: how the assessments
 datePublished: 2026-11-26T15:12:08.048Z
 cuid: cmwxoy1t0000002qk8j9k9axy
 slug: hirevue-vs-arctic-shores-vs-pymetrics-vs-cappfinity-how-the-assessments-differ
-cover: https://cdn.hashnode.com/uploads/covers/6b08293e575ddf024f3392f4/3542d855-6cb9-40b9-b263-1b876c797f28.png
+cover: https://cdn.hashnode.com/uploads/covers/6b08293e575ddf024f3392f4/2e74d8a6-0a91-47ad-9d22-49c3e188b034.jpg
 
 ---
 
