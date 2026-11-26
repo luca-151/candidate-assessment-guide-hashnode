@@ -27,6 +27,8 @@ Every tool is assessed on the same six criteria, the rubric published on our Abo
 5. **Feedback quality** what you learn after a run: a score, a history, guidance on what to fix.
 6. **Employer and platform coverage** whether the tool also helps if your next application uses a different assessment provider.
 
+![The scoring rubric: six criteria applied to every tool](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-01-rubric.svg)
+
 A note on what none of these tools can do: none is affiliated with HireVue, none has the actual test questions, and there is no "answer key" for game-based assessments, the games measure how you play, not what you memorise. Any service that promises you a score or a pass is promising something it cannot deliver.
 
 ## The comparison at a glance
@@ -42,6 +44,8 @@ A note on what none of these tools can do: none is affiliated with HireVue, none
 | Beyond HireVue | Large general test-prep catalogue | 78 games across 11 providers | HireVue only | SHL / Arctic Shores / Aon-style games plus aptitude tests | Arctic Shores, Cappfinity, Harver, Plum, UK Civil Service, plus video-interview practice |
 
 *Prices checked 26 November 2026 against the sources listed at the end. Vendors change pricing often; if a figure here is wrong, we correct it with a dated note (see our corrections policy).*
+
+![What each tool costs: prices at a glance](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-01-prices.svg)
 
 ## The tools, one by one
 
