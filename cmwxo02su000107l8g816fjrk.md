@@ -3,6 +3,7 @@ title: "HireVue Game Prep Compared: JobTestPrep vs GameTestPrep vs Game Assessme
 datePublished: 2026-11-26T14:45:43.069Z
 cuid: cmwxo02su000107l8g816fjrk
 slug: hirevue-game-prep-compared-jobtestprep-vs-gametestprep-vs-game-assessment-prep-vs-graduates-first-vs
+cover: https://cdn.hashnode.com/uploads/covers/6b08293e575ddf024f3392f4/3023915b-a833-45c9-b86b-8bff120658d1.png
 
 ---
 
@@ -27,14 +28,14 @@ Every tool is assessed on the same six criteria, the rubric published on our Abo
 5. **Feedback quality** what you learn after a run: a score, a history, guidance on what to fix.
 6. **Employer and platform coverage** whether the tool also helps if your next application uses a different assessment provider.
 
-![The scoring rubric: six criteria applied to every tool](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-01-rubric.svg)
+![The scoring rubric: six criteria applied to every tool](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-01-rubric.svg align="center")
 
 A note on what none of these tools can do: none is affiliated with HireVue, none has the actual test questions, and there is no "answer key" for game-based assessments, the games measure how you play, not what you memorise. Any service that promises you a score or a pass is promising something it cannot deliver.
 
 ## The comparison at a glance
 
-| | JobTestPrep | GameTestPrep | Game Assessment Prep | Graduates First | Candidate Falcon |
-|---|---|---|---|---|---|
+|  | JobTestPrep | GameTestPrep | Game Assessment Prep | Graduates First | Candidate Falcon |
+| --- | --- | --- | --- | --- | --- |
 | HireVue game types covered | 6 | 10 | 13 HireVue-style | 0 of HireVue's set (8 games of its own, SHL-style) | 11 |
 | Playable for free | None found on the product page | 3 games, free forever | Trial access on sign-in; replays need a pass | Free reasoning tests, not the games | Free guides; games are paid |
 | Price | From $79 | $9 / 7 days, $19 / 30 days, $34 / 90 days | $19 / 7 days, $29 / 30 days, $39 / 90 days **per category** | One-time, price shown only at checkout (competitor comparisons report £26.95 / €29.95, discounted from £49.95 / €59.95) | €12.99/month (one platform), €17.99/month (all game platforms) |
@@ -45,7 +46,7 @@ A note on what none of these tools can do: none is affiliated with HireVue, none
 
 *Prices checked 26 November 2026 against the sources listed at the end. Vendors change pricing often; if a figure here is wrong, we correct it with a dated note (see our corrections policy).*
 
-![What each tool costs: prices at a glance](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-01-prices.svg)
+![What each tool costs: prices at a glance](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-01-prices.svg align="center")
 
 ## The tools, one by one
 
@@ -91,7 +92,7 @@ Candidate Falcon's games plans cover **11 HireVue games** the full set it lists,
 
 Two honest limitations. First, a subscription is the wrong shape for a single assessment with a deadline this week: a one-time pass elsewhere costs less if you only need a few days. Second, the AI feedback Candidate Falcon advertises applies to its one-way video interview practice, which is a separate plan (€19.99/month and up); the games plans do not include it, per the vendor's own pricing table.
 
-Where the subscription earns its price is breadth over time: games across six platforms plus company-specific interview questions, and video-interview practice if you take a combined plan (from €36.99/month). The vendor reports 6,000+ candidates trained (candidatefalcon.com, checked 26 November 2026).
+Where the subscription earns its price is breadth over time: games across six platforms plus company-specific interview questions, and video-interview practice if you take a combined plan (from €36.99/month). The vendor reports 6,000+ candidates trained ([candidatefalcon.com](http://candidatefalcon.com), checked 26 November 2026).
 
 **Best for:** candidates applying to many employers over several months, especially where a HireVue assessment is followed by a one-way video interview.
 
@@ -109,13 +110,13 @@ Practice removes the format shock: you learn the rules, the clock and the contro
 
 ## Sources (all checked 26 November 2026)
 
-- Candidate Falcon pricing page (candidatefalcon.com/pricing): plan prices in EUR, 11 HireVue games, platform lists, AI feedback limited to video plans, cancellation terms.
-- Candidate Falcon homepage (candidatefalcon.com): 6,000+ candidates trained, 12 platforms, free guides.
-- JobTestPrep, HireVue Games Prep product page (jobtestprep.com): $79 list price, course description, score reports.
-- GameTestPrep homepage and pricing (gametestprep.com): 10 HireVue game types, 3 free games, pass prices, 78 games across 11 providers.
+- Candidate Falcon pricing page ([candidatefalcon.com/pricing](http://candidatefalcon.com/pricing)): plan prices in EUR, 11 HireVue games, platform lists, AI feedback limited to video plans, cancellation terms.
+- Candidate Falcon homepage ([candidatefalcon.com](http://candidatefalcon.com)): 6,000+ candidates trained, 12 platforms, free guides.
+- JobTestPrep, HireVue Games Prep product page ([jobtestprep.com](http://jobtestprep.com)): $79 list price, course description, score reports.
+- GameTestPrep homepage and pricing ([gametestprep.com](http://gametestprep.com)): 10 HireVue game types, 3 free games, pass prices, 78 games across 11 providers.
 - GameTestPrep, "Best Alternatives to JobTestPrep for HireVue Game Practice" (updated 9 July 2026): JobTestPrep's 6-game list and $79–$99 tiers; Graduates First's £26.95 price.
-- Game Assessment Prep (gameassessmentprep.com): 13 HireVue-style games, category-pass pricing, free guides and results, vendor-reported user figures (24 September 2026).
-- Graduates First, "Practice Game-based Assessments" product page (graduatesfirst.com): 8 games, lifetime access, one-time payment, free reasoning tests.
+- Game Assessment Prep ([gameassessmentprep.com](http://gameassessmentprep.com)): 13 HireVue-style games, category-pass pricing, free guides and results, vendor-reported user figures (24 September 2026).
+- Graduates First, "Practice Game-based Assessments" product page ([graduatesfirst.com](http://graduatesfirst.com)): 8 games, lifetime access, one-time payment, free reasoning tests.
 - Game Assessment Prep, "Best Alternatives to Graduates First" (January 2026): Graduates First's €29.95 price and game list.
 
 *Corrections: if any figure in this article is wrong or out of date, tell us and we will fix it with a dated note, not a silent edit.*
