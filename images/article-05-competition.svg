@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#FAF6EF"/>
+<text x="70" y="95" font-family="Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#8C2F39">APPLICATIONS PER VACANCY</text>
+<text x="70" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#1A1A1A">How crowded each vacancy is, UK 2025/26</text>
+<text x="70" y="225" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#1A1A1A">Digital and IT</text>
+<rect x="430" y="198" width="615" height="36" fill="#8C2F39"/>
+<text x="1060" y="228" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">205</text>
+<text x="70" y="295" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#1A1A1A">London graduate roles</text>
+<rect x="430" y="268" width="516" height="36" fill="#8C2F39"/>
+<text x="960" y="298" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">172</text>
+<text x="70" y="365" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#1A1A1A">Financial and professional services</text>
+<rect x="430" y="338" width="474" height="36" fill="#8C2F39"/>
+<text x="918" y="368" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">158</text>
+<text x="70" y="435" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#1A1A1A">UK graduate average</text>
+<rect x="430" y="408" width="423" height="36" fill="#1A1A1A"/>
+<text x="867" y="438" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">141</text>
+<text x="70" y="505" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#1A1A1A">Apprenticeship</text>
+<rect x="430" y="478" width="288" height="36" fill="#8A8378"/>
+<text x="732" y="508" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">96</text>
+<text x="70" y="585" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#5A544C">For comparison: the UK graduate average was 86 in 2022/23, and 38 two decades ago.</text>
+<text x="70" y="665" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#5A544C">Source: Institute of Student Employers, Student Recruitment Survey 2026, published 14 October 2026.</text>
+</svg>
