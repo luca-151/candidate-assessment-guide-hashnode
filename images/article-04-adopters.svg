@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#FAF6EF"/>
+<text x="70" y="95" font-family="Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#8C2F39">THREE KINDS OF ADOPTER</text>
+<text x="70" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#1A1A1A">What happened after firms dropped the degree rule</text>
+<text x="70" y="245" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#1A1A1A">Genuine adopters</text>
+<rect x="70" y="265" width="370" height="46" fill="#8C2F39"/>
+<text x="460" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39">37%</text>
+<text x="70" y="345" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#5A544C">Actually changed who they hired</text>
+<text x="70" y="415" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#1A1A1A">In name only</text>
+<rect x="70" y="435" width="450" height="46" fill="#C9A227"/>
+<text x="540" y="470" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39">45%</text>
+<text x="70" y="515" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#5A544C">Removed the requirement, hiring unchanged</text>
+<text x="70" y="585" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#1A1A1A">Backsliders</text>
+<rect x="70" y="605" width="180" height="46" fill="#8A8378"/>
+<text x="270" y="640" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39">18%</text>
+<text x="70" y="680" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#5A544C">Source: Harvard Business School and Burning Glass Institute, February 2024. Shares of firms studied.</text>
+</svg>
