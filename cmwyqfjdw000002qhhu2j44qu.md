@@ -21,6 +21,8 @@ Now look at what actually happened to hiring. Harvard Business School and the Bu
 
 Both sets of numbers can be true at once. That is the story of skills-based hiring in 2026: a real shift, adopted unevenly, and often announced far more boldly than it is practised.
 
+![The promise and the practice: 85% of employers say they use skills-based hiring, while fewer than 1 in 700 hires came from dropped degree requirements](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-04-gap.svg)
+
 ## What skills-based hiring actually means
 
 Skills-based hiring is not one policy. It is a spectrum of practices, and the label covers all of them, which is part of why the numbers look so strong.
@@ -34,6 +36,8 @@ None of this makes skills-based hiring a fiction. It makes it a partial reform, 
 ## The gap between policy and practice
 
 The Harvard and Burning Glass researchers sorted the companies they studied into three groups, and the split is where the argument lands.
+
+![Three kinds of adopter: 37% genuine adopters, 45% in name only, 18% backsliders](https://raw.githubusercontent.com/luca-151/candidate-assessment-guide-hashnode/main/images/article-04-adopters.svg)
 
 **37% were genuine adopters.** Nearly all of the actual change in hiring behaviour happened at just over a third of the firms studied. These companies retrained hiring managers, rebuilt screening, and hired measurably more workers without degrees. The report names Apple, Cigna, ExxonMobil, General Motors, Koch Industries, Target, Tyson Foods, Walmart, Yelp, the State of Minnesota and the City of Denver among the firms whose behaviour changed.
 
@@ -81,10 +85,10 @@ We will keep tracking the numbers as new surveys land, and we will say when a he
 
 ## Sources
 
-- TestGorilla, The State of Skills-Based Hiring 2025 (survey of 1,084 employers and 1,076 job seekers in the US and UK, April 2025), via [testgorilla.com](http://testgorilla.com) and independent summaries.
-- Fuller, J., Sigelman, M. and Martin, A., Skills-Based Hiring: The Long Road from Pronouncements to Practice, Burning Glass Institute and Harvard Business School, February 2024; summary at [hbs.edu](http://hbs.edu).
+- TestGorilla, The State of Skills-Based Hiring 2025 (survey of 1,084 employers and 1,076 job seekers in the US and UK, April 2025), via testgorilla.com and independent summaries.
+- Fuller, J., Sigelman, M. and Martin, A., Skills-Based Hiring: The Long Road from Pronouncements to Practice, Burning Glass Institute and Harvard Business School, February 2024; summary at hbs.edu.
 - National Association of Colleges and Employers, Job Outlook 2026 survey, as reported in 2026.
 - World Economic Forum, Future of Jobs Report 2025.
-- iCIMS Workforce Report, June 2025, as reported by [Research.com](http://Research.com).
+- iCIMS Workforce Report, June 2025, as reported by Research.com.
 - Accenture apprenticeship programme reporting, 2026; IBM apprenticeship programme and IBM talent disclosures via CNBC; EY degree requirement removal, 2016.
 - Pennsylvania and Maryland state hiring changes, as reported in 2026.
