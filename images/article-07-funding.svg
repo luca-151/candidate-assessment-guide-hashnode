@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#FAF6EF"/>
+<text x="70" y="95" font-family="Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#8C2F39">FUNDING AND VALUATION</text>
+<text x="70" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#1A1A1A">From WhiteHat to a $2.1 billion valuation</text>
+<line x1="70" y1="360" x2="1130" y2="360" stroke="#8C2F39" stroke-width="3"/>
+<circle cx="130" cy="360" r="10" fill="#8C2F39"/>
+<circle cx="322" cy="360" r="10" fill="#8C2F39"/>
+<circle cx="514" cy="360" r="10" fill="#8C2F39"/>
+<circle cx="706" cy="360" r="10" fill="#8C2F39"/>
+<circle cx="898" cy="360" r="10" fill="#8C2F39"/>
+<circle cx="1090" cy="360" r="10" fill="#8C2F39"/>
+<text x="130" y="250" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39" text-anchor="middle">2016</text>
+<text x="130" y="292" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">Founded as WhiteHat</text>
+<text x="322" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39" text-anchor="middle">2019</text>
+<text x="322" y="472" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">$16M Series A</text>
+<text x="322" y="500" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#5A544C" text-anchor="middle">led by Index Ventures</text>
+<text x="514" y="250" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39" text-anchor="middle">2021</text>
+<text x="514" y="292" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">Rebrand to Multiverse</text>
+<text x="514" y="320" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">$44M, General Catalyst</text>
+<text x="706" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39" text-anchor="middle">2021</text>
+<text x="706" y="472" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">$130M Series C</text>
+<text x="706" y="500" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#5A544C" text-anchor="middle">$875M valuation</text>
+<text x="898" y="250" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39" text-anchor="middle">2022</text>
+<text x="898" y="292" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">$220M Series D</text>
+<text x="898" y="320" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">$1.7B valuation</text>
+<text x="1090" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8C2F39" text-anchor="middle">2026</text>
+<text x="1090" y="472" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#1A1A1A" text-anchor="middle">$70M, Schroders Capital</text>
+<text x="1090" y="500" font-family="Helvetica, Arial, sans-serif" font-size="21" fill="#5A544C" text-anchor="middle">$2.1B valuation</text>
+<text x="70" y="590" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#1A1A1A">Total raised: more than $400 million, making it the UK's first edtech unicorn in 2022.</text>
+<text x="70" y="665" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#5A544C">Source: company funding announcements and reporting, 2019 to 2026.</text>
+</svg>
