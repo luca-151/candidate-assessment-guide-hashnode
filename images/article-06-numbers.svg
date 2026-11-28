@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#FAF6EF"/>
+<text x="70" y="95" font-family="Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#8C2F39">BY THE NUMBERS</text>
+<text x="70" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#1A1A1A">Josh Bersin in four numbers</text>
+<text x="70" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="110" fill="#8C2F39">25</text>
+<text x="70" y="348" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#1A1A1A">years in enterprise technology</text>
+<text x="70" y="382" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#5A544C">at IBM, Sybase and e-learning startups</text>
+<text x="640" y="300" font-family="Georgia, 'Times New Roman', serif" font-size="110" fill="#8C2F39">4</text>
+<text x="640" y="348" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#1A1A1A">business books</text>
+<text x="640" y="382" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#5A544C">the latest, Superpowered, published 2026</text>
+<line x1="70" y1="440" x2="1130" y2="440" stroke="#D8D2C4" stroke-width="1.5"/>
+<text x="70" y="580" font-family="Georgia, 'Times New Roman', serif" font-size="110" fill="#8C2F39">1M</text>
+<text x="70" y="628" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#1A1A1A">LinkedIn followers, nearly</text>
+<text x="640" y="580" font-family="Georgia, 'Times New Roman', serif" font-size="110" fill="#8C2F39">50,000+</text>
+<text x="640" y="628" font-family="Helvetica, Arial, sans-serif" font-size="26" fill="#1A1A1A">members of Galileo Learn</text>
+<text x="70" y="672" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#5A544C">Sources: joshbersin.com; Wikipedia; O'Reilly author bio.</text>
+</svg>
