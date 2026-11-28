@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#FAF6EF"/>
+<text x="70" y="95" font-family="Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#8C2F39">CAREER TIMELINE</text>
+<text x="70" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#1A1A1A">From engineer to the voice of HR</text>
+<line x1="200" y1="195" x2="200" y2="610" stroke="#8C2F39" stroke-width="2"/>
+<circle cx="200" cy="212" r="9" fill="#8C2F39"/>
+<text x="70" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">2001</text>
+<text x="235" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1A1A1A">Founds Bersin and Associates</text>
+<circle cx="200" cy="272" r="9" fill="#8C2F39"/>
+<text x="70" y="282" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">2012</text>
+<text x="235" y="282" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1A1A1A">Sells the firm to Deloitte</text>
+<circle cx="200" cy="332" r="9" fill="#8C2F39"/>
+<text x="70" y="342" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">2018</text>
+<text x="235" y="342" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1A1A1A">Leaves Deloitte after six years as a principal</text>
+<circle cx="200" cy="392" r="9" fill="#8C2F39"/>
+<text x="70" y="402" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">2019</text>
+<text x="235" y="402" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1A1A1A">Founds the Josh Bersin Academy</text>
+<circle cx="200" cy="452" r="9" fill="#8C2F39"/>
+<text x="70" y="462" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">2020</text>
+<text x="235" y="462" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1A1A1A">Founds The Josh Bersin Company</text>
+<circle cx="200" cy="512" r="9" fill="#8C2F39"/>
+<text x="70" y="522" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">2022</text>
+<text x="235" y="522" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1A1A1A">Irresistible is published</text>
+<circle cx="200" cy="572" r="9" fill="#8C2F39"/>
+<text x="70" y="582" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#8C2F39">2026</text>
+<text x="235" y="582" font-family="Georgia, 'Times New Roman', serif" font-size="27" fill="#1A1A1A">Superpowered is published</text>
+<text x="70" y="665" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#5A544C">Sources: joshbersin.com biography page; Wikipedia; UC Berkeley Haas newsroom.</text>
+</svg>
